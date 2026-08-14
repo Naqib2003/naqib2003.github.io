@@ -56,11 +56,13 @@ const portfolioData = {
     ],
     experience: [
         {
-            title: "AI Data Trainer",
-            company: "CrowdGen",
-            date: "2026 - Present",
-            description: "Working on training and fine-tuning AI models through high-quality data annotation and generation."
+            title: "Industrial & Marketing Research Intern",
+            company: "Auron Ventures",
+            date: "June 2026 - August 2026",
+            description: "Diving deep into the complexities of industrial markets. During my time here, I focused heavily on data collection, market mapping, and comprehensive industry analysis , specifically analyzing the dynamics of the Security Bolt seal and Microfiber towel industries in Bangladesh."
         }
+
+
         // Add future internships here
     ],
     research: {
@@ -80,6 +82,5 @@ const portfolioData = {
     ],
     achievements: [
         { title: "AI+ Prompt Engineer Level 1™", issuer: "AI CERTs / AgentX", date: "Completed", score: "84" },
-        { title: "30 Days Machine Learning with Python Masterclass", issuer: "Gobeshona Learning Academy", date: "May 2026", score: "" }
     ]
 };
