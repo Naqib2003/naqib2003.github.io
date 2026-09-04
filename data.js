@@ -8,7 +8,7 @@ const portfolioData = {
         bio: "I am a Computer Science and Engineering student at BRAC University, passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I am actively building projects, exploring vision-language models, and preparing for a career in software engineering and AI research.",
         github: "https://github.com/Naqib2003",
         linkedin: "https://www.linkedin.com/in/naqib-alam-5b3489249/",
-        email: "mailto:[Your_Email@example.com]", // Replace with your actual email
+        email: "mailto:naqibalam10@gmail.com", // Replace with your actual email
         resume: "./assets/resume.pdf",
         photo: "./assets/profile.jpg"
     },
